@@ -1,0 +1,33 @@
+O que é DevOps?
+A palavra é a combinação  de desenvolvimento é operação, isso significa uma abordagem colaborativa entre a o time de desenvolvimento  e o de operações de TI
+
+Num sentido mais amplo DevOps é uma filosofia que busca promover uma melhor comunicação entre as equipes dentro da organização. O DevOps descreve a adoção  de um desenvolvimento de software interativo, automações e a estruturação de uma infraestrutura programável de deploys e manutenções. O termo também cobre uma mudança de cultura, construindo uma maior confiança e coesão ente os  desenvolvedores e os administradores de sistemas, também fornecendo um maior alinhamento entre os projetos desenvolvidos e os requerimentos de negocio. O DevOps é capaz de mudar a entrega de software, serviços, cargos, ferramentas de TI e boas praticas.
+
+
+Por mais que DevOps não é de fato uma tecnologia, seus ambientes geralmente aplicam metodologias comuns, entre elas:
+- Ferramentas de Integração continua e entrega continua ou deploy continuo (CI/CD), com ênfase na automação de tarefas;
+- Sistemas e ferramentas que suportam a adoção de DevOps incluem monitoramento em tempo  real, gerencia de incidentes, gerencia de configuração e plataformas colaborativas;
+- Computação em nuvens, microsserviços e conteiners implementando concorrência com metodologias do DevOps
+
+
+DevOps é também mais uma das varias técnicas de TI usadas para executar projetos que batem com as necessidades de negocio, DevOps pode coexistir com metodologias ágeis de desenvolvimento de software, frameworks de gerenciamento, diretivas de gerenciamento como o Lean e o Six Sigma, entre outras estratégias
+
+Como o DevOps funciona?
+É comum entender o DevOps como um loop infinito, compreendendo estes passos:
+Planejar, codificar, buildar, testar, gerar release, deployar, operar monitorar – de volta ao inicio –
+
+De foram ideal, o DevOps significa que será escrito um código com perfeita sintonia com o que é esperado pelo usuário, logo após será deployado sem perda de tempo e executado sem erros e na primeira tentativa. As organizações  utilizam desta combinação de cultura e tecnologia para perseguir este objetivo.
+Para Alinhar as expectativas , desenvolvedor e stackholders(partes interessadas no negocio) se comunicam com frequência, e o desenvolvedores trabalham em pequenas atualizações que podem existir de forma independente entre eles.
+
+Para evitar a perda de tempo, a equipe de TI desenvolve pipelines de CI/CD  ou outras automações para mover o código de desenvolvimento para a produção. Equipes revisão as mudanças de forma imediata e pode reforçar politicas para garantir que as versões lançadas se enquadram nos padrões.
+Para deployar um bom código para produção, DevOps aderem o uso de containers e outros métodos que fazem o software se comportar da mesma forma em todos os ambientes, desenvolvimento, produção e homologação. As mudanças são deployadas de forma individual desta forma torna os problemas rastreáveis.
+
+Que problemas o DevOps Resolve?
+Problemas comuns incidem em lançamentos de software muito demorados, software que não atende as expectativas e tecnologia que limita o crescimento do negocio
+Projetos em DevOps se movem rápido das requisições ao software final. Um circulo curto de processos mantem os requerimentos mudando desta forma entregando um produto que é justamente o que o cliente deseja
+Resolve também problemas de comunicação  e de prioridades. Para produzir um software  viável, a equipe de desenvolvimento deve entender o ambiente de produção e testar seus códigos em situações realistas, evitando a famosa frase “na minha maquina rodou”, porem em produção ocorrem diversos erros
+
+
+Qual o relacionamento da integração continua com o conceito de DevOps?
+
+A integração contínua ajuda a manter o código sempre buildado e testado em diferentes sistemas operacionais desta forma agilizando o processor para o deploy e facilitando a manutenção  e correção de erros de integração
