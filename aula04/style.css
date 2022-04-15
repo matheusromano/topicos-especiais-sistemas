@@ -1,0 +1,30 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkorange;
+
+}
+
+.p{
+    margin-left: 500px;
+}
+
+P{
+    font-size: 50px;
+}
+
+.formulario{
+    margin-left: 700px;
+    width: 100px;
+}
+
+.label{
+    font-size: 30px;
+}
+input{
+    font-family: Impact, Haettenschweiler;
+    border-radius: 10px;
+}
+
+form{
+    width: 200px;
+}
